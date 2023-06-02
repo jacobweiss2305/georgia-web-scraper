@@ -1,0 +1,8 @@
+scrapy
+boto3
+python-dotenv
+PyPDF2
+pandas
+selenium
+bs4
+pyarrow
